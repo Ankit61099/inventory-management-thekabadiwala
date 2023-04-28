@@ -1,1 +1,1 @@
-# invetory-management-thekabadiwala
+# inventory-management-thekabadiwala
